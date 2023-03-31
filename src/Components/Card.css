@@ -1,0 +1,34 @@
+.card_main{
+    display: flex;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 3px;
+    border: solid 2px rgb(161, 161, 161);
+}
+.img_box{
+    margin-right: 15px;
+    margin-bottom: -4px;
+}
+
+.title_box > h1{
+    font-size: 20px;
+    color: rgb(173, 37, 3);
+}
+.img_style{
+    height: 100%;
+    width: 100%;
+}
+
+.description_box{
+    margin-top: 5px;
+    width: 280px;
+    padding-right: 10px;
+}
+.description_box > p{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+
